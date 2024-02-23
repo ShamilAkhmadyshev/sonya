@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sonya/static/css/main.838c66b1.css",
-    "main.js": "/sonya/static/js/main.9b4f3c8c.js",
+    "main.css": "/sonya/static/css/main.6692b518.css",
+    "main.js": "/sonya/static/js/main.ddf70992.js",
     "static/js/453.2a4aa89a.chunk.js": "/sonya/static/js/453.2a4aa89a.chunk.js",
     "static/media/2.JPG": "/sonya/static/media/2.3fb1dbefe79d43ce73f8.JPG",
     "static/media/3.JPG": "/sonya/static/media/3.7f57cec86fff9416ed14.JPG",
@@ -62,12 +62,12 @@
     "static/media/13.jpg": "/sonya/static/media/13.42919ba0f962aaa4048e.jpg",
     "static/media/15.jpg": "/sonya/static/media/15.b72e07a0951e812a737d.jpg",
     "index.html": "/sonya/index.html",
-    "main.838c66b1.css.map": "/sonya/static/css/main.838c66b1.css.map",
-    "main.9b4f3c8c.js.map": "/sonya/static/js/main.9b4f3c8c.js.map",
+    "main.6692b518.css.map": "/sonya/static/css/main.6692b518.css.map",
+    "main.ddf70992.js.map": "/sonya/static/js/main.ddf70992.js.map",
     "453.2a4aa89a.chunk.js.map": "/sonya/static/js/453.2a4aa89a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.838c66b1.css",
-    "static/js/main.9b4f3c8c.js"
+    "static/css/main.6692b518.css",
+    "static/js/main.ddf70992.js"
   ]
 }
