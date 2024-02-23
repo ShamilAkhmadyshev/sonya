@@ -197,7 +197,9 @@ h6 {
   -ms-flex-pack: center;
   justify-content: center;
 }
-
+.mg-2 {
+  margin-top: 10px;
+}
 .mama {
   background-color: #ad9fe0;
 }

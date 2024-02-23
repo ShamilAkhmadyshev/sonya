@@ -142,6 +142,7 @@ function App() {
               })}
             </div>
           </div>
+          <div class="muron__text text mg-2">Посмотри под последней тофифи</div>
         </div>
       </section>
     </>
