@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sonya/static/css/main.6692b518.css",
-    "main.js": "/sonya/static/js/main.ddf70992.js",
+    "main.js": "/sonya/static/js/main.26882e3a.js",
     "static/js/453.2a4aa89a.chunk.js": "/sonya/static/js/453.2a4aa89a.chunk.js",
     "static/media/2.JPG": "/sonya/static/media/2.3fb1dbefe79d43ce73f8.JPG",
     "static/media/3.JPG": "/sonya/static/media/3.7f57cec86fff9416ed14.JPG",
@@ -12,7 +12,7 @@
     "static/media/41.jpeg": "/sonya/static/media/41.58930afb68f1cd125b01.jpeg",
     "static/media/45.jpeg": "/sonya/static/media/45.5604d349820f3833a599.jpeg",
     "static/media/44.jpeg": "/sonya/static/media/44.649e9800f654834fe032.jpeg",
-    "static/media/37.jpeg": "/sonya/static/media/37.b07f7b5a4d2a8beb26f6.jpeg",
+    "static/media/37.jpeg": "/sonya/static/media/37.3bbd993008f89dbc6a57.jpeg",
     "static/media/5.jpg": "/sonya/static/media/5.f07efff3240d361f1810.jpg",
     "static/media/38.jpeg": "/sonya/static/media/38.ac76e9ec65322b9bf8c4.jpeg",
     "static/media/40.jpeg": "/sonya/static/media/40.785aed859bde23f878a4.jpeg",
@@ -29,16 +29,16 @@
     "static/media/50.jpeg": "/sonya/static/media/50.9e3f31d881974c0b5c1d.jpeg",
     "static/media/35.jpeg": "/sonya/static/media/35.84a38d7e64c4fc56b332.jpeg",
     "static/media/42.jpeg": "/sonya/static/media/42.112100312a9bfe6d6935.jpeg",
-    "static/media/29.jpeg": "/sonya/static/media/29.e52530a2d79e92458caa.jpeg",
     "static/media/12.jpg": "/sonya/static/media/12.688d26762d49e3135e41.jpg",
     "static/media/31.jpeg": "/sonya/static/media/31.9e1493906d79aeadcd8c.jpeg",
-    "static/media/33.jpeg": "/sonya/static/media/33.55c774741339ee7d3a5c.jpeg",
     "static/media/32.jpeg": "/sonya/static/media/32.1fb373ad0cd408cd97f7.jpeg",
     "static/media/17.jpg": "/sonya/static/media/17.44ada54d32e32224c6a0.jpg",
     "static/media/53.jpeg": "/sonya/static/media/53.3d0302b4d9b5d56999a7.jpeg",
     "static/media/9.jpg": "/sonya/static/media/9.59f1e1c2cd72c12768c2.jpg",
     "static/media/56.jpeg": "/sonya/static/media/56.9b048f9eb859d98bf051.jpeg",
+    "static/media/29.jpeg": "/sonya/static/media/29.40f45d23d158a89194b1.jpeg",
     "static/media/19.jpg": "/sonya/static/media/19.92757637c43182ec83c0.jpg",
+    "static/media/33.jpeg": "/sonya/static/media/33.4e378dfac8bb0896d435.jpeg",
     "static/media/23.jpg": "/sonya/static/media/23.e5d867c623e62a5f7ca3.jpg",
     "static/media/46.jpeg": "/sonya/static/media/46.e2025d81c263b30cb57c.jpeg",
     "static/media/22.jpg": "/sonya/static/media/22.b6076eafac3a7f6ca722.jpg",
@@ -63,11 +63,11 @@
     "static/media/15.jpg": "/sonya/static/media/15.b72e07a0951e812a737d.jpg",
     "index.html": "/sonya/index.html",
     "main.6692b518.css.map": "/sonya/static/css/main.6692b518.css.map",
-    "main.ddf70992.js.map": "/sonya/static/js/main.ddf70992.js.map",
+    "main.26882e3a.js.map": "/sonya/static/js/main.26882e3a.js.map",
     "453.2a4aa89a.chunk.js.map": "/sonya/static/js/453.2a4aa89a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6692b518.css",
-    "static/js/main.ddf70992.js"
+    "static/js/main.26882e3a.js"
   ]
 }
